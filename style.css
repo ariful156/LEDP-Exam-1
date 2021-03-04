@@ -1,0 +1,88 @@
+
+@media(max-width:425px){header.head-area img {
+    width: 100px;
+}
+}
+
+.herro-area{
+    background: url(img/1.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 487px;
+}
+.herro-area h2{
+    padding-top: 50px;
+}
+.title {
+    font-size: 42px;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+
+/* testimonial */
+.testimonial-section{
+    background: url(img/2.png) no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 667px;
+    padding-top: 250px;
+}
+.featur-section{
+    padding: 50px 0;
+}
+
+/* card */
+.price-box ul {
+    list-style-type: none;
+}
+
+.price-box {
+    background: #FFD200;
+    padding: 0px 5px 0;
+    border-radius: 10px;
+}
+
+.price-box h4 {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.price-mini-box {
+    background: white;
+    padding: 10px 0px;
+}
+
+.price-box p {
+    font-size: 20px;
+    padding: 8px;
+}
+
+.price-box h2 {
+    padding: 25px;
+}
+
+/* advantage-section */
+.advantage-section{
+    background-color: #F3F0E7;
+}
+
+/* solution */
+.price-mini-box img {
+    padding-right: 20px;
+}
+/* fotter section */
+.fotter-section{
+    background-color: #FFD200;
+    padding-top: 20px;
+}
+.fotter-section a{
+    text-decoration: none;
+    color: black;
+}
+.social-icon {
+    font-size: 35px;
+}
+.fotter-section ul{
+    list-style-type:none;
+}
